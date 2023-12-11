@@ -1,0 +1,13 @@
+If you’re interested in coding in Python for machine learning, there are many resources available online. Here are some resources that can help you get started:
+
+W3Schools: This website provides a comprehensive tutorial on Python machine learning. It covers the basics of statistics, data analysis, and how to use various Python modules to get the answers you need. You will also learn how to make functions that are able to predict the outcome based on what you have learned. Check it out here.
+
+Codecademy: This website offers a Skill Path on building machine learning models with Python. The course includes Python 3, scikit-learn, matplotlib, pandas, Jupyter Notebooks, and more. To start this Skill Path, you need to upgrade your plan. You can find more information here.
+
+Coursera: This website offers an introductory course on machine learning with the Python programming language. You will learn about supervised learning, unsupervised learning, deep learning, image processing, and generative adversarial networks. You can find more information here.
+
+GeeksforGeeks: This website provides a tutorial on machine learning with Python. It covers the role of Python in machine learning and the libraries like NumPy, Pandas, Scikit-learn, TensorFlow, and Keras that are essential for data manipulation, analysis, and building machine learning models. Check it out here.
+
+Machine Learning Mastery: This website offers a step-by-step guide on how to develop your own machine learning models in Python. The guide covers self-study tutorials and end-to-end projects like loading data, visualization, modeling, tuning, and much more. You can find more information here.
+
+I hope these resources help you get started with coding in Python for machine learning!
